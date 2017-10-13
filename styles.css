@@ -1,0 +1,53 @@
+footer{
+    background-color: #232323;
+}
+
+.carousel-title {
+    position: relative;
+    top: -385px;
+}
+.e1{
+padding-top: 15px;
+    color: #eeeeee;
+    margin-right: 7px;
+}
+.nb{
+    position: absolute;
+}
+.en{
+    background-color: #232323;
+}
+.e2{
+    padding-top: 15px;
+    color: #eeeeee;
+
+}
+.f3{
+    font-size:16px ;
+    color: #666666;
+    margin-left: 90px;
+    margin-bottom: 200px;
+}
+.e3{
+    color: white;
+    font-size: 20px ;
+}
+.navbar
+{
+    border:none  !important;
+    outline:none  !important;
+}
+
+.navbar-default
+{
+    border:none  !important;
+    outline:none  !important;
+}
+.fo{
+    width: 100%;
+    margin-top: -770px;
+}
+.foo{
+    width: 100%;
+    margin-top: -900px;
+}
