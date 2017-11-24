@@ -1,0 +1,19 @@
+$white:#FFFFFF;
+$whiter:#eeeeee;
+$black: #000;
+$grey:#666666;
+$blackk:#232323;
+$width:100%;
+@mixin color($color)
+{
+    color:$color;
+}
+.e1{@include color($whiter)}
+.o6{@include color($white)}
+.e8{@include color($whiter)}
+.e2{@include color($whiter)}
+@mixin width($width)
+{
+    width: $width;
+}
+.e9{@include width($width);}
